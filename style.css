@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecera1{
+    font-size: 20px;
+    color: aqua;
+}
+
+.parrafo{
+    font-size: 15px;
+    color: black;
+}
